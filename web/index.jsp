@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <a href="${pageContext.request.contextPath}/book/allBook">点击</a>
+  <a href="${pageContext.request.contextPath}/book/allBook">点击进入书籍页面</a>
   </body>
 </html>
